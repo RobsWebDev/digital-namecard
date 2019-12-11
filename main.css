@@ -1,4 +1,4 @@
-html,
+	html,
 body {
   height: 100%;
   width: 100%;
@@ -135,11 +135,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #333;
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #585E6F;
 }
 
 .text-name {
