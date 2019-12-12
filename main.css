@@ -141,6 +141,7 @@ img.profile-pic {
 
 .bg-color-white {
 	background-color: #32363B!important;
+	border-top: 3px solid #00ff00;
 }
 
 .text-name {
@@ -178,6 +179,7 @@ img.profile-pic {
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
 	color: #32363B;
+	font-size: 14px;
 	font-weight: 300;
 }
 
